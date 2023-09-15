@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=KBDSJU3cGkc
 
+https://raw.githubusercontent.com/RodrigoMvs123/SQL-For-Web-Developers---Complete-Database-Course/main/README.md
+
+
+
 https://github.com/bootdotdev/fcc-learn-sql-assets 
 
 Introduction to SQL ( Structured Query Language ) 
